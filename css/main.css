@@ -1,7 +1,7 @@
 body {
   background-color: white;
   color:black;
-    background:linear-gradient(160deg, #c17f4b, #5ab16c);
+  background:linear-gradient(160deg, #c17f4b, #5ab16c);
 
 }
 
@@ -33,31 +33,6 @@ h1{
   font-weight: bolder;
 }
 
-textarea, input{
-  width: 100%;
-  border-radius: 0px;
-  border: 1px solid DeepPink;
-  margin-bottom: 20px;
-}
-
-.posteo {
-  color: DeepPink;
-}
-.posteo strong{
-  display: block;
-}
-.posteo hr {
-  border: 1px solid DeepPink;
-}
-/* PARA CORAZON */
-.corazon {
-  font-size: 40px;
-  color: gray;
-  text-align: center;
-}
-.rojo {
-  color: red;
-}
 
 /* PARA EJERCICIO HTML5 */
 .marco-foto {
