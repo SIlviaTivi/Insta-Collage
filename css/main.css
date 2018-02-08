@@ -54,3 +54,10 @@ h1{
 .tamanio{
   width: 80%;
 }
+
+.container-marco{
+border: 1px solid white;
+padding:5% 10%;
+margin: 5%;
+
+}
