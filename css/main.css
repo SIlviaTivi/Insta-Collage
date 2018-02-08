@@ -32,19 +32,25 @@ h1{
   font-size: 50px;
   font-weight: bolder;
 }
-
-
 /* PARA EJERCICIO HTML5 */
 .marco-foto {
   min-height: 100px;
   border: 1px solid black;
   margin-top: 20px;
 }
-
 .marco-foto > img {
   margin-bottom: 0;
 }
 
 #img-primary {
   padding-top: 13%;
+}
+.center{
+  text-align: center;
+}
+.pd_body{
+  padding: 8%;
+}
+.tamanio{
+  width: 80%;
 }

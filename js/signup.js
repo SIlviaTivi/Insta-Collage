@@ -1,4 +1,4 @@
-$(function() {
+$(function () {
   var $email = $('#inputEmail');
   var $password = $('#inputPassword');
   var $checkbox = $('input[type=checkbox]');
